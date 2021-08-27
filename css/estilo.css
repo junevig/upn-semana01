@@ -1,0 +1,21 @@
+@font-face{
+	font-family: "Kaushan-Script";
+	src: url("../fonts/KaushanScript-Regular.ttf");
+}
+
+*{
+	font-family: "Kaushan-Script";
+}
+
+.cuadro{
+	background-color: #F1F1F1;
+	margin-top: 10px;
+}
+
+img{
+	width: 200px;
+}
+
+.centrado{
+	margin: 0 auto;
+}
